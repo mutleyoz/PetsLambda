@@ -1,0 +1,11 @@
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\bin\Release\netcoreapp2.0\linux-x64\PetsLamda.deps.json
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\bin\Release\netcoreapp2.0\linux-x64\PetsLamda.runtimeconfig.json
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\bin\Release\netcoreapp2.0\linux-x64\PetsLamda.runtimeconfig.dev.json
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\bin\Release\netcoreapp2.0\linux-x64\PetsLamda.dll
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\bin\Release\netcoreapp2.0\linux-x64\PetsLamda.pdb
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\obj\Release\netcoreapp2.0\linux-x64\PetsLamda.csprojAssemblyReference.cache
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\obj\Release\netcoreapp2.0\linux-x64\PetsLamda.csproj.CoreCompileInputs.cache
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\obj\Release\netcoreapp2.0\linux-x64\PetsLamda.AssemblyInfoInputs.cache
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\obj\Release\netcoreapp2.0\linux-x64\PetsLamda.AssemblyInfo.cs
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\obj\Release\netcoreapp2.0\linux-x64\PetsLamda.dll
+D:\Development\CodeExamples\aspnetcore\lambda\PetsLamda\obj\Release\netcoreapp2.0\linux-x64\PetsLamda.pdb
